@@ -1,0 +1,15 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Docker volumes
+volumes/
+
+# Virtual environment
+.venv/
+.env
+
+# IDE settings
+.idea/
+.vscode/
